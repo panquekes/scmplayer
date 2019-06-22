@@ -1,0 +1,30 @@
+#player,#player a{ color:#000; font-family: tahoma;}
+#player{ background:url(http://static.tumblr.com/nx6njvz/tQ1mv8koh/vol.png); background-position:bottom; background-color: #fff }
+#player .mainImage{ background:url(http://static.tumblr.com/nx6njvz/Vjdmv8m3s/skinsimplesp_b3d.png); }
+	
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(http://static.tumblr.com/nx6njvz/vcUmv8m87/untitledrr.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#fff;  }
+#player #seekerBuffered{ background-color:#000; }
+#player #seekerSliderBase{ background-color:#fff; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/nx6njvz/tQ1mv8koh/vol.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#00000e;}
+#playlist .module{  color:#00000e; background-color:#00000e; }
+#playlist h3{ background:url(http://static.tumblr.com/su8juwr/PJnn0r57o/ski.png); color:#00000e; background-color:#00000e;  }
+#playlist .even{background-color:#00000e;}
+#playlist .odd{ background-color:#00000e;} 
+#playlist .focus{ background-color:#00000e; color:#00000e;}
