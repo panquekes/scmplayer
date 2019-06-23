@@ -23,8 +23,11 @@
 #player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/nx6njvz/tQ1mv8koh/vol.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#00000e;}
-#playlist .module{  color:#00000e; background-color:#00000e; }
-#playlist h3{ background:url(http://static.tumblr.com/su8juwr/PJnn0r57o/ski.png); color:#00000e; background-color:#00000e;  }
+#playlist .module{ color:#333; background-color:#00000e; }
+#playlist h3{ background:url(http://dl.dropboxusercontent.com/u/58708531/bar2.jpg); color:#00000e; background-color:#00000e; }
 #playlist .even{background-color:#00000e;}
-#playlist .odd{ background-color:#00000e;} 
-#playlist .focus{ background-color:#00000e; color:#00000e;}
+#playlist .odd{ background-color:#00000e;}
+#playlist .focus{ background-color:#00000e; color:#000;}
+
+
+                                      <-------- SKIN BY DOCEADORA -------->
